@@ -1,0 +1,5 @@
+2021-03-16 09:36:16.079 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-16 09:54:13.594 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-16 10:07:32.170 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-16 11:31:57.429 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-16 11:34:07.645 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.

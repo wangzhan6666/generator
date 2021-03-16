@@ -1,0 +1,16 @@
+2020-12-28 17:06:15.845 [main] INFO  com.sise.wangzhan.generator.GeneratorApplication - Starting GeneratorApplication on DESKTOP-BC3OTIJ with PID 13668 (E:\software\IDEA\save_GraduationProjectTest\generator\target\classes started by acer in E:\software\IDEA\save_GraduationProjectTest\generator)
+2020-12-28 17:06:15.854 [main] INFO  com.sise.wangzhan.generator.GeneratorApplication - The following profiles are active: dev
+2020-12-28 17:06:17.147 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-12-28 17:06:17.155 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-12-28 17:06:17.155 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-12-28 17:06:17.160 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-12-28 17:06:17.243 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-28 17:06:17.244 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1293 ms
+2020-12-28 17:06:18.404 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-12-28 17:06:18.487 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-28 17:06:18.804 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8001"]
+2020-12-28 17:06:18.829 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+2020-12-28 17:06:18.831 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-12-28 17:06:18.850 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-12-28 17:06:18.893 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-12-28 17:06:19.040 [main] INFO  com.sise.wangzhan.generator.GeneratorApplication - Started GeneratorApplication in 4.074 seconds (JVM running for 5.3)

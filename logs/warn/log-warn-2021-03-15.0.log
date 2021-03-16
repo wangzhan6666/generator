@@ -1,0 +1,10 @@
+2021-03-15 20:26:02.703 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-15 20:30:04.636 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-15 20:31:48.663 [http-nio-8081-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: I/O error while reading input message; nested exception is org.apache.catalina.connector.ClientAbortException: java.io.EOFException: Unexpected EOF read on the socket]
+2021-03-15 20:37:25.483 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-15 20:37:55.865 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-15 20:39:08.158 [http-nio-8081-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-03-15 20:46:25.150 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-15 20:49:05.620 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-15 20:52:14.297 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
+2021-03-15 20:52:42.790 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.sise.wangzhan.generator]' package. Please check your configuration.
